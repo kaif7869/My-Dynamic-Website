@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "homepage": "http://kaif7869.github.io/My-Dynamic-Website",
     "name": "frontend",
     "version": "0.1.0",
@@ -39,6 +40,8 @@
             "last 1 safari version"
         ]
     },
+=======
+>>>>>>> b852d0344835b18162267256b65e0ba1e309e8b2
     "devDependencies": {
         "gh-pages": "^6.1.1"
     }
